@@ -2,3 +2,4 @@ Git Practice Repository
 Git basics
 Git branching concept
 Login feature notes
+Profile feature implementation
