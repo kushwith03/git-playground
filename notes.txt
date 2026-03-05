@@ -4,3 +4,4 @@ Git branching concept
 Login feature notes
 Profile feature implementation
 Authentication system implementation
+Payment feature implementation
