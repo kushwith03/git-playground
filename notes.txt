@@ -1,2 +1,3 @@
-Git Practice Repository"
-Git basics" 
+Git Practice Repository
+Git basics
+Git branching concept
